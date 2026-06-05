@@ -60,10 +60,4 @@ Claude Code · Cursor · OpenCode · Gemini CLI · GitHub Copilot
 
 ---
 
-## Contributing
-
-Have a vertical or stakeholder type that's missing? See [CONTRIBUTING.md](./CONTRIBUTING.md).
-
----
-
 *Built by [April DeZen](https://github.com/aprilde)*
