@@ -20,7 +20,7 @@ Built for PMs who want to stress-test their work before walking into the room.
 | Agent | Vertical | Stakeholders covered |
 |-------|----------|----------------------|
 | [B2B SaaS](./agents/b2b-saas.md) | B2B SaaS | Sales, Customer Success, RevOps, PMM, Growth, CEO, CFO, Legal, Support, Pre-Sales, Enterprise Buyers |
-| [Marketplace](./agents/marketplace.md) | Marketplace | *(coming soon)* |
+| [Marketplace](./agents/marketplace.md) | Marketplace | Seller/Supplier Success, Supply Ops, Buyer Experience, Growth/Acquisition, Trust & Safety, Legal, Sales/Partnerships, CFO, CEO |
 | [Growth / PLG](./agents/growth-plg.md) | Product-Led Growth | *(coming soon)* |
 | [Enterprise / B2B2C](./agents/enterprise-b2b2c.md) | Enterprise & B2B2C | *(coming soon)* |
 | [Platform / API](./agents/platform-api.md) | Platform & API Products | *(coming soon)* |
